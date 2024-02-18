@@ -3,9 +3,9 @@
 
 **_Project Members:_**
 - Rancy Chadha ()
-- Sarabpreet Singh Rekhi ()
-- Wei Qi (40198872)
 - Wenxue Zhao	 ()
+- Wei Qi (40198872)
+- Sarabpreet Singh Rekhi ()
 
 ## Project Description
 This project aims to predict which online news articles will become popular (based on the number of social interactions) by analyzing various statistical data related to news articles. <br><br>
