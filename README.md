@@ -2,7 +2,7 @@
 ## Project Title: Predicting the Popularity of Online News
 
 **_Project Members:_**
-- Rancy Chadha ()
+- Rancy Chadha (40221591)
 - Wenxue Zhao (40187305)
 - Wei Qi (40198872)
 - Sarabpreet Singh Rekhi ()
