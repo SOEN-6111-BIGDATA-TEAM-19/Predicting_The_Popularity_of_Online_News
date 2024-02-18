@@ -3,7 +3,7 @@
 
 **_Project Members:_**
 - Rancy Chadha ()
-- Wenxue Zhao	 ()
+- Wenxue Zhao (40187305)
 - Wei Qi (40198872)
 - Sarabpreet Singh Rekhi ()
 
