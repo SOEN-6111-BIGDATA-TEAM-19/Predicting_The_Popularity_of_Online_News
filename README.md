@@ -1,4 +1,4 @@
-# SOEN 6111 BigData Project - Team 33
+# SOEN 6111 BigData Project - Team 19
 ## Project Title: Predicting the Popularity of Online News
 
 **_Project Members:_**
