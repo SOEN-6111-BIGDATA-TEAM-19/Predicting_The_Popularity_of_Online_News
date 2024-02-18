@@ -83,3 +83,4 @@ The dataset involved in the study contains 61 attributes of 39,797 news articles
 > Analyze the impact of data channels on the popularity of news, understanding which themes or domains are more likely to receive high levels of social interaction.
 
 ## Evaluation Metrics
+The accuracy of each algorithm will be evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE),and Mean Squared Error (MSE) metrics.
