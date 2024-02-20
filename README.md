@@ -5,7 +5,7 @@
 - Rancy Chadha (40221591)
 - Wenxue Zhao (40187305)
 - Wei Qi (40198872)
-- Sarabpreet Singh Rekhi ()
+- Sarabpreet Singh Rekhi (40154067)
 
 ## Project Description
 This project aims to predict which online news articles will become popular (based on the number of social interactions) by analyzing various statistical data related to news articles. <br><br>
