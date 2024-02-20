@@ -1,4 +1,3 @@
-
 # $${\color{#088da5}Project \space Title: \space Predict \space Popularity \space Of \space Online \space News}$$
 
 ## SOEN 6111 BigData Project
