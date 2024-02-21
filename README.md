@@ -43,9 +43,11 @@ To tackle these questions, the **class of models** that we will employ are a sui
 
 _Algorithms that we would use for comparison are:_
 
-* Linear Regression for establishing a baseline understanding of linear feature relationships.
-* Random Forest Regression to capture complex, non-linear feature interactions.
-* Gradient Boosting Regression for iterative error correction and performance optimization.
+- **Linear Regression** for establishing a baseline understanding of linear feature relationships. This algorithm will help us in getting clear insights into which features have a linear relationship with article popularity, helping to identify straightforward strategies for content optimization.
+
+- **Random Forest Regression** to capture complex, non-linear feature interactions. This will help us to understand the combined effect of multiple features on shares/popularity, including interaction effects, and identify the most influential predictors through its feature importance scores.
+
+- **Gradient Boosting Regression** for iterative error correction and performance optimization. With this algorithm we are hoping to that it would be particularly beneficial for addressing the dataset's varied and nuanced features, leading to potentially higher accuracy in forecasting article shares.
 
 ## Evaluation Metrics
 
