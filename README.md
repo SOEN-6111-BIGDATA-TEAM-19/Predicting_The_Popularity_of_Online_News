@@ -19,7 +19,16 @@ By examining the influence of article features and the role of content type and 
 
 ## Dataset Overview
 
-The foundation of our analysis is a Dataset encompassing **61 attributes** across **39,797 news articles**. These attributes cover a broad spectrum, including basic metrics like_ word counts, multimedia elements_, and advanced indicators such as _keyword performance and sentiment analysis_. The "shares" attribute, indicating the article's popularity, serves as our target variable. This extensive Dataset offers a fertile ground for exploring the multifaceted nature of content engagement.
+The foundation of our analysis is a Dataset comprising of **39,797** online news articles, each characterized by **61 attributes** detailing content structure, style, and context. 
+Attributes include following types of metrics:
+- Textual metrics like word count and uniqueness, Multimedia element count (images and videos), publication timing, content category (e.g., lifestyle, entertainment, business), and sentiment analysis. 
+- SEO-related keywords performance and article linkage (internal and external) are tracked. 
+- Latent Dirichlet Allocation (LDA) topics to gauge content themes. 
+- The target variable, "shares," represents article popularity, offering a quantitative measure of social interactions. 
+
+All the attirbutes with their description are listed here: https://github.com/SOEN-6111-BIGDATA-TEAM-19/Predicting_The_Popularity_of_Online_News/wiki/Dataset-Features 
+
+This rich dataset enables a comprehensive analysis of factors influencing news article engagement.
 
 ## Research Questions
 
