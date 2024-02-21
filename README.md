@@ -25,7 +25,7 @@ The foundation of our analysis is a Dataset encompassing **61 attributes** acros
 
 Our investigation revolves around two core research questions:
 
-* Impact of Article Features: What is the relationship between specific article attributes (e.g., title length, multimedia usage) and the level of social interaction?
+* Impact of Article Features: Which factors significantly influence the popularity of online news? What is the relationship between specific article attributes (e.g., title length, multimedia usage) and the number of social interactions(popularity)?
 * Influence of Content Type and Distribution Channels: How do different content types (technology, entertainment, business) and distribution channels affect article popularity?
 
 ## Model Design and Algorithms
