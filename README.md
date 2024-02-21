@@ -26,7 +26,7 @@ Attributes include following types of metrics:
 - Latent Dirichlet Allocation (LDA) topics to gauge content themes. 
 - The target variable, "shares," represents article popularity, offering a quantitative measure of social interactions. 
 
-All the attributes with their description are listed here: https://github.com/SOEN-6111-BIGDATA-TEAM-19/Predicting_The_Popularity_of_Online_News/blob/main/resources/AttributeDiscription.md
+All the attributes with their description are listed here: [Attribute List](https://github.com/SOEN-6111-BIGDATA-TEAM-19/Predicting_The_Popularity_of_Online_News/blob/main/AttributeList.md)
 
 This rich dataset enables a comprehensive analysis of factors influencing news article engagement.
 
