@@ -63,4 +63,4 @@
 | shares                           | Number of shares (target)                                        |
 
 
-[1] K. Fernandes, P. Vinagre, P. Cortez, and P. Sernadela, "UCI Online News Popularity Data Set," Kaggle, Augmented data for LLM - Detect AI Generated Text, 2020. [Online]. Available: https://www.kaggle.com/datasets/thehapyone/uci-online-news-popularity-data-set. [Accessed: insert the date you accessed this resource].
+[1] K. Fernandes, P. Vinagre, P. Cortez, and P. Sernadela, "UCI Online News Popularity Data Set," Kaggle, Augmented data for LLM - Detect AI Generated Text, 2020. [Online]. Available: https://www.kaggle.com/datasets/thehapyone/uci-online-news-popularity-data-set. .
