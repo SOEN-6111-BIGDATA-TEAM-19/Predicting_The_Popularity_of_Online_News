@@ -13,9 +13,7 @@ _Team Name:_ **TEAM 19**
 
 ## Project Definition and Objectives
 
-In this project we intend to leverage machine learning techniques to predict the popularity of online news articles, as measured by social interactions such as shares. Our objective is to dissect a wide array of article attributes to find the determinants of reader engagement and article virality. In doing so, we aim not only to forecast article popularity but also to offer actionable insights into how different content characteristics affect public interest and engagement.
-
-By examining the influence of article features and the role of content type and distribution channels, this project seeks to provide a nuanced understanding of digital content dynamics.
+The primary goal of this project is to accurately predict the popularity of online news articles, with popularity specifically defined by the level of social interactions, such as the number of shares an article receives. To achieve this, we will employ advanced machine learning techniques to analyze and model how various attributes of news articles contribute to their likelihood of being shared widely across social networks.
 
 ## Dataset Overview
 
@@ -34,8 +32,7 @@ This rich dataset enables a comprehensive analysis of factors influencing news a
 
 Our investigation revolves around two core research questions:
 
-* Impact of Article Features: Which factors significantly influence the popularity of online news? What is the relationship between specific article attributes (e.g., title length, multimedia usage) and the number of social interactions(popularity)?
-* Influence of Content Type and Distribution Channels: How do different content types (technology, entertainment, business) and distribution channels affect article popularity?
+* Popularity of Online News: How do article features (e.g., title length, multimedia usage), content types (technology, entertainment, business), and distribution channels influence the share and popularity of online news, and is it possible to accurately forecast reader engagement and social interactions?
 
 ## Model Design and Algorithms
 
