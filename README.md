@@ -15,6 +15,8 @@ _Team Name:_ **TEAM 19**
 
 The primary goal of this project is to accurately predict the popularity of online news articles, with popularity specifically defined by the level of social interactions, such as the number of shares an article receives. To achieve this, we will employ advanced machine learning techniques to analyze and model how various attributes of news articles contribute to their likelihood of being shared widely across social networks.
 
+The culmination of this project will be a predictive tool capable of estimating the potential popularity of news articles before they are published. This tool will serve as a strategic asset for publishers and content creators, guiding them in optimizing content to maximize reach and engagement. Moreover, the project will contribute to the broader academic and professional understanding of digital content dynamics, shedding light on the intricate relationship between article attributes and their social dissemination.
+
 ## Dataset Overview
 
 The foundation of our analysis is a Dataset comprising of **39,797** online news articles, each characterized by **61 attributes** detailing content structure, style, and context. 
@@ -32,11 +34,15 @@ This rich dataset enables a comprehensive analysis of factors influencing news a
 
 Our investigation revolves around two core research questions:
 
-* Popularity of Online News: How do article features (e.g., title length, multimedia usage), content types (technology, entertainment, business), and distribution channels influence the share and popularity of online news, and is it possible to accurately forecast reader engagement and social interactions?
+* Predicting Popularity of Online News: Can we Predict the popularity (share) of Online News?
+
+* Impact of Article Features, content type and Distribution Channels: Which factors significantly influence the popularity of online news? What is the relationship between specific article attributes (e.g., title length, multimedia usage) and the number of social interactions(popularity)? How do different content types (technology, entertainment, business) and distribution channels affect article popularity?
+
 
 ## Model Design and Algorithms
 
-To tackle these questions, the **class of models** that we will employ are a suite of **regression models** since they are best suited for predicting continuous variables such as article shares. 
+To tackle these questions, the class of models that we will employ are a suite of **regression models**, which are best suited for predicting continuous variables, such as the number of article shares in our dataset.
+
 
 _Algorithms that we would use for comparison are:_
 
@@ -45,6 +51,9 @@ _Algorithms that we would use for comparison are:_
 - **Random Forest Regression** to capture complex, non-linear feature interactions. This will help us to understand the combined effect of multiple features on shares/popularity, including interaction effects, and identify the most influential predictors through its feature importance scores.
 
 - **Gradient Boosting Regression** for iterative error correction and performance optimization. With this algorithm we are hoping to that it would be particularly beneficial for addressing the dataset's varied and nuanced features, leading to potentially higher accuracy in forecasting article shares.
+
+- **Predicting Average (of shares?) in our training Set: Need to clarify from Prof**
+
 
 ## Evaluation Metrics
 
