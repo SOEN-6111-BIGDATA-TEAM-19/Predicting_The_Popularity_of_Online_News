@@ -52,7 +52,7 @@ _Algorithms that we would use for comparison are:_
 
 - **Gradient Boosting Regression** for iterative error correction and performance optimization. With this algorithm we are hoping to that it would be particularly beneficial for addressing the dataset's varied and nuanced features, leading to potentially higher accuracy in forecasting article shares.
 
-- **Predicting Average (of shares?) in our training Set: Need to clarify from Prof**
+- **"Predicting Average" Baseline Model (Need to clarify from Prof)** for comparison. This model will predict the popularity of each test article based solely on the average number of shares across all articles in the training set, disregarding individual article features. By comparing the performance of our sophisticated models (Linear Regression, Random Forest, and Gradient Boosting) against this baseline, we aim to demonstrate the value added by these algorithms in capturing the complex relationships between article attributes and popularity. This comparison will help justify the use of advanced models and showcase their effectiveness in predicting article shares.
 
 
 ## Evaluation Metrics
