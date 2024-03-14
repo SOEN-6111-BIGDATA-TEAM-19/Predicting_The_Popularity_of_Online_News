@@ -36,7 +36,7 @@ Our investigation revolves around two core research questions:
 
 * Predicting Popularity of Online News: Can we Predict the popularity (share) of Online News?
 
-* Impact of Article Features, content type and Distribution Channels: Which factors significantly influence the popularity of online news? What is the relationship between specific article attributes (e.g., title length, multimedia usage) and the number of social interactions(popularity)? How do different content types (technology, entertainment, business) and distribution channels affect article popularity?
+* Analyzing the Influence of Article Features on Online News Popularity: Which specific article features most significantly affect the popularity of online news, measured by social interactions (shares)?"
 
 
 ## Model Design and Algorithms
